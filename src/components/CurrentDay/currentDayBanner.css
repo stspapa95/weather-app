@@ -1,0 +1,10 @@
+:root {
+    --primary: hsla(193, 43%, 69%);
+    --secondary: hsla(240, 66%, 30%, 0.3);
+}
+
+.img-container {
+    background: linear-gradient(135deg, var(--primary), var(--secondary)), url("../../assets/images/mountain.jpg") no-repeat center center / cover;
+    border-radius: 25px;
+}
+
