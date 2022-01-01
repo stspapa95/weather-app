@@ -1,7 +1,3 @@
-# Description
-
-A beginner weather app built in ReactJS and Material UI. 
-
 # Preview
 
 ![alt text](https://github.com/stspapa95/weather-app/blob/master/preview1.png?raw=true)
